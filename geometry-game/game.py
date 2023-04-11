@@ -26,7 +26,7 @@ class Rectangle:
 
 
 # Create rectangle object
-rectangle = Rectangle(Point(randint(0, 9), randint(0, 9)),
+rectangle = Rectangle(Point(randint(0, 19), randint(0, 19)),
               Point(randint(10, 19), randint(10, 19)))
 
 # Print rectangle coordinates
